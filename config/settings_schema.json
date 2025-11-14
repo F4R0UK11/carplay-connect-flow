@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Theme settings",
+    "settings": [
+      {
+        "type": "header",
+        "content": "React storefront"
+      },
+      {
+        "type": "checkbox",
+        "id": "enable_cart_drawer",
+        "label": "Enable cart drawer",
+        "default": true
+      }
+    ]
+  }
+]
